@@ -1,9 +1,4 @@
-//
-//  GroupsModel.swift
-//  NetworkVisualAnimation
-//
-//  Created by Ринат on 29.08.2023.
-//
+
 
 struct GroupsModel: Codable {
     var response: GroupsResponse?
