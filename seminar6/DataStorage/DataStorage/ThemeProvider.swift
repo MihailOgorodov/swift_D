@@ -1,9 +1,5 @@
 //
-//  ThemeProvider.swift
-//  DataStorage
-//
-//  Created by Ринат on 31.08.2023.
-//
+
 
 import Foundation
 
