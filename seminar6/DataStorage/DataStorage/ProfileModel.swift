@@ -1,9 +1,4 @@
-//
-//  ProfileModel.swift
-//  DataStorage
-//
-//  Created by Ринат on 31.08.2023.
-//
+
 
 struct ProfileModel: Decodable {
     var response: Profile
