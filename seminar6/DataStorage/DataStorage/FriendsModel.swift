@@ -1,9 +1,3 @@
-//
-//  FriendsModel.swift
-//  DataStorage
-//
-//  Created by Ринат on 31.08.2023.
-//
 
 struct FriendsModel: Codable {
     var response: FriendsResponse?
