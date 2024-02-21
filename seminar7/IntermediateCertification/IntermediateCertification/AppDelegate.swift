@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  IntermediateCertification
-//
-//  Created by Ринат on 03.09.2023.
-//
+
 
 import UIKit
 
