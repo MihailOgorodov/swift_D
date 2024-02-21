@@ -1,9 +1,3 @@
-//
-//  IntermediateCertificationTests.swift
-//  IntermediateCertificationTests
-//
-//  Created by Ринат on 04.09.2023.
-//
 
 @testable import IntermediateCertification
 import XCTest
